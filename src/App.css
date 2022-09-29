@@ -35,4 +35,21 @@
   to {
     transform: rotate(360deg);
   }
+
+}
+
+#pic1{
+  width:600px;
+}
+
+#pic2{
+  width:600px;
+}
+
+#pic3{
+  width:600px;
+}
+
+#pic4{
+  width:600px;
 }
